@@ -127,26 +127,19 @@ This will populate the database with realistic test data for all departments.
 
 ## 👥 Contributors
 
-- **Abdullah Abdelrazek** - System design, backend development, AI integration, and full-stack component integration
-  - GitHub: [@3bodymo](https://github.com/3bodymo)
+- [**Abdullah Abdelrazek**](https://github.com/3bodymo) - System design, backend development, AI integration, and full-stack component integration
   
-- **Harsha Thasish** - Frontend development and RAG system
-  - GitHub: [@hxrshx](https://github.com/hxrshx)
+- [**Harsha Sathish**](https://github.com/hxrshx) - Frontend development and RAG system
   
-- **Prahas Hegde**
-  - GitHub: [@PrahasHegde](https://github.com/PrahasHegde)
+- [**Prahas Hegde**](https://github.com/PrahasHegde)
   
-- **Rohan Sanjay Patil** - Data structuring, analysis, and RAG contributions
-  - GitHub: [@rohan2700](https://github.com/rohan2700)
+- [**Rohan Sanjay Patil**](https://github.com/rohan2700) - Data structuring, analysis, and RAG contributions
   
-- **Bibin Babu** - RAG system development
-  - GitHub: [@bibinsees](https://github.com/bibinsees)
+- [**Bibin Babu**](https://github.com/bibinsees) - RAG system development
   
-- **Harshith Babu** - RAG system development
-  - GitHub: [@Haarshiith](https://github.com/Haarshiith/)
+- [**Harshith Babu**](https://github.com/Haarshiith/) - RAG system development
   
-- **Zeyi Lu** - Multi-format LL content generation
-  - GitHub: [@ZEYILU](https://github.com/ZEYILU)
+- [**Zeyi Lu**](https://github.com/ZEYILU) - Multi-format LL content generation
 
 ## 🙏 Acknowledgments
 
