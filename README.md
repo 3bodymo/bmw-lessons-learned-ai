@@ -77,7 +77,7 @@ cp .env.example .env
 ### Start the entire system:
 
 ```bash
-docker-compose up --build
+docker compose up --build
 ```
 
 ### Access the application:
@@ -89,7 +89,7 @@ docker-compose up --build
 ### Stop the system:
 
 ```bash
-docker-compose down
+docker compose down
 ```
 
 ## 💻 Running without Docker
