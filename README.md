@@ -67,10 +67,7 @@ The "Find Solutions" feature searches across **three sources** to provide compre
 
 ### Environment Setup
 
-#### Backend
-
 ```bash
-cd backend
 cp .env.example .env
 # Edit .env with your OpenAI API key
 ```
